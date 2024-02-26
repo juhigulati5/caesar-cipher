@@ -1,1 +1,1 @@
-# caesar-cipher
+this code takes in a message input from the user and either encrypts or decrypts it, based on the users request. the encryption is a simple shift method by a user-determined number of letters, and can include spaces, numbers, and symbols without changing them.
